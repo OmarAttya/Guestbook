@@ -1,0 +1,32 @@
+
+.messageContainer {
+    float: left;
+    width: 100%;
+    display: inline-flex;
+    padding-bottom: 5px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+
+}
+.button {
+    float: right;
+    padding-bottom: 5px;
+}
+
+.center {
+    margin: auto;
+    background-color: lightgray;
+    width: 55%;
+    padding: 10px;
+    border: 5px solid lightgray;
+    text-align: center;
+    
+}
+
+.container {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+}
+  
